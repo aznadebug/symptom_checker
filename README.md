@@ -44,6 +44,10 @@ python symptom_checker_pro.py
 
 On some Linux systems you may need to install Tkinter first: `sudo apt install python3-tk`
 
+## Live Demo
+
+https://aznadebug-symptomchecker.streamlit.app/
+
 ## Project Structure
 
 ```
